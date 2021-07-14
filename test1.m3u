@@ -1344,9 +1344,4 @@ http://iptv.prosto.tv:7000/ch112/video.m3u8
 #EXTINF:-1 group-title="Українські (2)" tvg-name="Южная волна HD",Южная волна HD
 #EXTGRP:Українські (2)
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
-#EXTINF:-1 group-title="INFO" tvg-name="❗️=== TELEGRAM @Anonymous_TV ===❗️",❗️=== TELEGRAM @Anonymous_TV ===❗️
-#EXTGRP:INFO
-https://t.me/Anonymous_TV_2021
-#EXTINF:-1 group-title="INFO" tvg-name="❗️=== ОНОВЛЕНО 11.07.21 ===❗️",❗️=== ОНОВЛЕНО 11.07.21 ===❗️
-#EXTGRP:INFO
-https://www.dropbox.com/s/ygv9cdij9963opa/Anonymous%20TV.mp4?dl=1
+
