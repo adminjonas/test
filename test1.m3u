@@ -33,12 +33,6 @@ http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="Українські (2)" tvg-name="7 канал HD (Одесса)",7 канал HD (Одесса)
 #EXTGRP:Українські (2)
 http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-name="88 Stereo",88 Stereo
-#EXTGRP:Музыка
-http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-name="88 Stereo TV",88 Stereo TV
-#EXTGRP:Музыка
-http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="9 Волна",9 Волна
 #EXTGRP:Музыка
 http://serv25.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
@@ -165,21 +159,12 @@ http://185.74.4.46:8080/stch_temp10/mpegts
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Discovery Science.png" group-title="Познавательные" tvg-name="Discovery Science HD",Discovery Science HD
 #EXTGRP:Познавательные
 https://s1.idata.uz/stch_temp10/tracks-v1a1/rewind-7200.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/icn/disney_channel.png" group-title="Детские" tvg-name="Disney Channel",Disney Channel
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://iptvx.one/icn/disney_channel.png" group-title="Детские" tvg-name="Disney Channel (+4)",Disney Channel (+4)
 #EXTGRP:Детские
 http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://iptvx.one/icn/disney_channel.png" group-title="Детские" tvg-name="Disney Channel (+7)",Disney Channel (+7)
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/DTX HD.png" group-title="Познавательные" tvg-name="DTX",DTX
 #EXTGRP:Познавательные
 http://185.97.150.19:8082/34
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Bridge TV Hits.png" group-title="Развлекательные" tvg-name="E TV FHD",E TV FHD
-#EXTGRP:Развлекательные
-http://83.222.205.65:8080/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="Ecnulo",Ecnulo
 #EXTGRP:Музыка
 http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
@@ -198,9 +183,6 @@ http://212.76.27.29/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1 tvg-logo="http://ottpink.network/picons/eurosport2hdtv.png" group-title="Спорт" tvg-name="Eurosport 2 HD",Eurosport 2 HD
 #EXTGRP:Спорт
 http://212.76.27.29/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Eurosport 4K.png" group-title="Спорт" tvg-name="Eurosport 4K",Eurosport 4K
-#EXTGRP:Спорт
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Extreme sports.png" group-title="Познавательные" tvg-name="Extreme Sport",Extreme Sport
 #EXTGRP:Познавательные
 http://188.113.190.12/39/video.m3u8
@@ -354,18 +336,9 @@ http://v2.catcast.tv/content/38144/index.m3u8
 #EXTINF:-1 group-title="Детские" tvg-name="Lale",Lale
 #EXTGRP:Детские
 http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 tvg-logo="http://fe-mos.svc.iptv.rt.ru/images/broadcastChannel1571395402939.png" group-title="Познавательные" tvg-name="Love Nature",Love Nature
-#EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Love nature 4K.png" group-title="Познавательные" tvg-name="Love Nature 4K",Love Nature 4K
-#EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Luxury HD.png" group-title="Познавательные" tvg-name="Luxury HD",Luxury HD
 #EXTGRP:Познавательные
 http://nano.teleservice.su:8080/hls/luxury.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/M-1 Global.png" group-title="Спорт" tvg-name="M-1 Global HD",M-1 Global HD
-#EXTGRP:Спорт
-http://188.113.190.12/305/video.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-name="M6 Music HD",M6 Music HD
 #EXTGRP:Музыка
 http://190.2.155.162:8080/m6music/mpegts
@@ -540,9 +513,6 @@ http://rut-v.gcdn.co/streams/1410_95/1080n/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/03032021/banners/39759-603f3b7507343.png" group-title="Музыка" tvg-name="Russian Dance Hits of 90s",Russian Dance Hits of 90s
 #EXTGRP:Музыка
 https://autopilot.catcast.tv/content/39759/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Russian Extreme Ultra.png" group-title="Познавательные" tvg-name="RUSSIAN EXTREME UHD",RUSSIAN EXTREME UHD
-#EXTGRP:Познавательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Russian Extreme.png" group-title="Музыка" tvg-name="Russian JahrMarkt",Russian JahrMarkt
 #EXTGRP:Музыка
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
@@ -660,9 +630,6 @@ https://hls.cdn.ua/tv5.zp.ua_live/mp4:tv5/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/TVM Channel.png" group-title="Фильмы и сериалы" tvg-name="TVMATIC HD",TVMATIC HD
 #EXTGRP:Фильмы и сериалы
 http://cdn.tvmatic.net/facebook.m3u8?telegramm=yossotv
-#EXTINF:-1 group-title="Українські (2)" tvg-name="UA Перший HD",UA Перший HD
-#EXTGRP:Українські (2)
-http://uapershiy-hls2.cosmonova.net.ua/hls/uapershiy_ua_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/UFC ТВ.png" group-title="Спорт" tvg-name="UFC ТВ",UFC ТВ
 #EXTGRP:Спорт
 http://cloudcdn.tk:80/Trabalharogerio/AE5Snk31/64022
@@ -672,12 +639,6 @@ http://118.47.168.157:8080/play/a0211/index.m3u8
 #EXTINF:-1 group-title="Українські (2)" tvg-name="UKRlive HD",UKRlive HD
 #EXTGRP:Українські (2)
 http://95.67.12.149:9005
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Ultra HD Cinema.png" group-title="Фильмы и сериалы" tvg-name="Ultra HD Cinema",Ultra HD Cinema
-#EXTGRP:Фильмы и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Ultra HD Cinema.png" group-title="Фильмы и сериалы" tvg-name="ULTRA REX",ULTRA REX
-#EXTGRP:Фильмы и сериалы
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-name="Univer TV HD",Univer TV HD
 #EXTGRP:Познавательные
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
@@ -795,9 +756,6 @@ https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 tvg-logo="https://d.radikal.ru/d16/2102/80/d03f73a2b9f7.png" group-title="Фильмы и сериалы" tvg-name="ВСЁ ВКЛЮЧЕНО",ВСЁ ВКЛЮЧЕНО
 #EXTGRP:Фильмы и сериалы
 https://v2.catcast.tv/content/39161/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Всё ТВ.png" group-title="Фильмы и сериалы" tvg-name="Всё ТВ HD",Всё ТВ HD
-#EXTGRP:Фильмы и сериалы
-https://zabava-htlive.cdn.ngenix.net/hls/CH_VSETVHD_HLS/bw5000000/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Тайны Галактики.png" group-title="Фильмы и сериалы" tvg-name="ГАЛ TV",ГАЛ TV
 #EXTGRP:Фильмы и сериалы
 http://clients.apsny.camera:80/tv_gal_tv_hd_online/index.m3u8
@@ -870,15 +828,6 @@ http://185.97.150.19:8082/193
 #EXTINF:-1 group-title="Українські (2)" tvg-name="К1",К1
 #EXTGRP:Українські (2)
 http://109.68.40.67/life/k1_3/index.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/icn/karusel.png" group-title="Детские" tvg-name="Карусель",Карусель
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://iptvx.one/icn/karusel.png" group-title="Детские" tvg-name="Карусель (+3)",Карусель (+3)
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-logo="https://iptvx.one/icn/karusel.png" group-title="Детские" tvg-name="Карусель (+7)",Карусель (+7)
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Кино ТВ HD.png" group-title="Фильмы и сериалы" tvg-name="КИНО CATCAST 1",КИНО CATCAST 1
 #EXTGRP:Фильмы и сериалы
 https://autopilot.catcast.tv/content/38896/index.m3u8
@@ -1041,9 +990,6 @@ http://188.113.190.12/220/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Мужской.png" group-title="Познавательные" tvg-name="Мужской",Мужской
 #EXTGRP:Познавательные
 http://212.76.27.29/btv/SWM/Muzhskoy/Muzhskoy_576p_2000kbps.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Муз ТВ.png" group-title="Музыка" tvg-name="Муз ТВ",Муз ТВ
-#EXTGRP:Музыка
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/25062020/logos/37745-5ef3d10ff0621.png" group-title="Музыка" tvg-name="Музыка 1",Музыка 1
 #EXTGRP:Музыка
 http://95.215.111.230:8082
@@ -1059,9 +1005,6 @@ https://autopilot.catcast.tv/content/38850/index.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Надежда.png" group-title="Українські (2)" tvg-name="Надия/Новый канал",Надия/Новый канал
 #EXTGRP:Українські (2)
 http://nadiya.home-net.com.ua/mob/mystream.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Наша сибирь.png" group-title="Познавательные" tvg-name="Наша Сибирь 4K",Наша Сибирь 4K
-#EXTGRP:Познавательные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Наше любимое кино.png" group-title="Фильмы и сериалы" tvg-name="Наше любимое кино",Наше любимое кино
 #EXTGRP:Фильмы и сериалы
 http://212.76.27.29/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
@@ -1221,15 +1164,9 @@ http://persik.by/stream/6696/480248/17.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/СТС Kids.png" group-title="Детские" tvg-name="СТС Kids",СТС Kids
 #EXTGRP:Детские
 https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-name="Суббота!",Суббота!
-#EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8
 #EXTINF:-1 group-title="Українські (2)" tvg-name="ТIС",ТIС
 #EXTGRP:Українські (2)
 http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/ТВ 3.png" group-title="Развлекательные" tvg-name="ТВ 3",ТВ 3
-#EXTGRP:Развлекательные
-http://zabava-htlive.cdn.ngenix.net/hls/CH_TV3/variant.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Твой дом HD.png" group-title="Фильмы и сериалы" tvg-name="Твое ТВ HD",Твое ТВ HD
 #EXTGRP:Фильмы и сериалы
 http://stream-norst.cf:8080/tvoetv/index.m3u8
@@ -1296,9 +1233,6 @@ https://5-61-37-5.livesports24.online/uafootballua1.m3u8?989324018711a
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Матч! Футбол 1 HD.png" group-title="Спорт" tvg-name="Футбол 1 FHD",Футбол 1 FHD
 #EXTGRP:Спорт
 http://195.110.6.15:8000/play/142
-#EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Матч! Футбол 1 HD.png" group-title="Спорт" tvg-name="ФУТБОЛ 1 HD",ФУТБОЛ 1 HD
-#EXTGRP:Спорт
-https://46-166-139-84.livesports24.online/uafootballua1.m3u8
 #EXTINF:-1 tvg-logo="https://iptvx.one/picons/../Channel/Logo/Матч! Футбол 2.png" group-title="Спорт" tvg-name="Футбол 2",Футбол 2
 #EXTGRP:Спорт
 https://5-61-37-5.livesports24.online/fooootball2.m3u8
@@ -1344,4 +1278,6 @@ http://iptv.prosto.tv:7000/ch112/video.m3u8
 #EXTINF:-1 group-title="Українські (2)" tvg-name="Южная волна HD",Южная волна HD
 #EXTGRP:Українські (2)
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
+
+
 
