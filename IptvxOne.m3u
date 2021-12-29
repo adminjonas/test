@@ -1,9 +1,5 @@
-#EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
+#EXTM3U   url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Литва",LRT HD
-http://213.226.137.133:81/tl/l1/index.m3u8
-#EXTINF:-1 group-title="Литва",LRT Plius HD
-http://213.226.137.133:81/tl/l2/index.m3u8
 #EXTINF:-1 group-title="Литва",LNK
 http://213.226.137.133:81/tl/l3/index.m3u8
 #EXTINF:-1 group-title="Литва",TV6
@@ -12,33 +8,22 @@ http://213.226.137.133:81/tl/l4/index.m3u8
 http://213.226.137.133:81/tl/l5/index.m3u8
 #EXTINF:-1 group-title="Литва",TV1
 http://213.226.137.133:81/tl/l9/index.m3u8
-#EXTINF:-1 group-title="Литва",TV1 HD
-http://213.226.137.133:81/tl/l712/index.m3u8
 #EXTINF:-1 group-title="Литва",TV2
 http://213.226.137.133:81/tl/l8/index.m3u8
 #EXTINF:-1 group-title="Литва",TV3
 http://213.226.137.133:81/tl/l6/index.m3u8
 #EXTINF:-1 group-title="Литва",TV8
 http://213.226.137.133:81/tl/l10/index.m3u8
-#EXTINF:-1 group-title="Литва",TV8 HD
-http://213.226.137.133:81/tl/l714/index.m3u8
 #EXTINF:-1 group-title="Литва",Info TV
 http://213.226.137.133:81/tl/l7/index.m3u8
-#EXTINF:-1 group-title="Литва",Info TV HD
-http://213.226.137.133:81/tl/l713/index.m3u8
-#EXTINF:-1 group-title="Литва",Delfi HD
-http://213.226.137.133:81/tl/l715/index.m3u8
 #EXTINF:-1 group-title="Литва",Lietuvos Rytas
 http://213.226.137.133:81/tl/l35/index.m3u8
 
-
-#EXTINF:-1 group-title="Россия",Первый канал HD
-http://213.226.137.133:81/tl/l46/mpegts
 #EXTINF:-1 group-title="Россия",Первый Канал HD
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
 #EXTINF:-1 group-title="Россия",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Россия",Россия 24 
+#EXTINF:-1 group-title="Россия",Россия 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",Россия 24
 http://213.226.137.133:81/tl/l44/mpegts
@@ -54,7 +39,7 @@ http://213.226.137.133:81/tl/l50/mpegts
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",РТР Планета
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
-#EXTINF:-1 group-title="Россия",Мир 24 HD 
+#EXTINF:-1 group-title="Россия",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
@@ -66,10 +51,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Известия
 http://213.226.137.133:81/tl/l406/mpegts
-#EXTINF:-1 group-title="Россия",НТВ HD
-http://213.226.137.133:81/tl/l40/mpegts
-#EXTINF:-1 group-title="Россия",ТНТ HD
-http://213.226.137.133:81/tl/l41/mpegts
 #EXTINF:-1 group-title="Россия",THT4
 http://213.226.137.133:81/tl/l63/mpegts
 #EXTINF:-1 group-title="Россия",ТВЦ
@@ -157,8 +138,6 @@ http://213.226.137.133:81/tl/l415/mpegts
 http://213.226.137.133:81/tl/l111/mpegts
 #EXTINF:-1 group-title="Кино",Кинохит
 http://213.226.137.133:81/tl/l16/mpegts
-#EXTINF:-1 group-title="Кино",Индийское кино
-http://46.174.83.66/Indiiskoe_kino/mpegts
 #EXTINF:-1 group-title="Кино",FOX HD
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 #EXTINF:-1 group-title="Кино",FOX Life HD
@@ -179,8 +158,6 @@ https://bl.uma.media/live/317845/HLS/4614144_3,2883584_2,1153024_1/1613109268/2f
 http://194.213.23.7:3304
 #EXTINF:-1 group-title="Кино",Русский Иллюзион
 http://86.57.178.105:10823
-#EXTINF:-1 group-title="Кино",Дом кино
-http://46.174.83.66/Dom_Kino/mpegts
 #EXTINF:-1 group-title="Кино",Дом Кино Премиум HD
 http://213.226.137.133:81/tl/l75/mpegts
 #EXTINF:-1 group-title="Кино",День Победы
@@ -291,7 +268,6 @@ http://188.40.68.167/russia/oruzhie/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Food Network
 http://213.226.137.133:81/tl/l98/mpegts
 
-
 #EXTINF:-1 group-title="Новости",DW
 http://1hdru-hls-otcnet.cdnvideo.ru/DW/playlist.m3u8
 #EXTINF:-1 group-title="Новости",Euronews
@@ -307,8 +283,6 @@ http://213.226.137.133:81/tl/l24/mpegts
 http://46.174.83.66/O/mpegts
 #EXTINF:-1 group-title="Детские",Baby TV
 https://okkotv-live.cdnvideo.ru/channel/BabyTV/480p.m3u8
-#EXTINF:-1 group-title="Детские",Disney Channel
-http://46.174.83.66/Disney/mpegts
 #EXTINF:-1 group-title="Детские",Уникум
 http://46.174.83.66/Unikum/mpegts
 #EXTINF:-1 group-title="Детские",CTC Kids HD
@@ -376,7 +350,7 @@ http://93.152.174.144:4000/play/sporttv1/index.m3u8
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports 3
 http://93.152.174.144:4000/play/skysports3/index.m3u8
-#EXTINF:-1 group-title="Спорт",Sky Sports 5 
+#EXTINF:-1 group-title="Спорт",Sky Sports 5
 http://93.152.174.144:4000/play/skysports5/index.m3u8
 #EXTINF:-1 group-title="Спорт",Sky Sports News
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
@@ -388,16 +362,10 @@ http://93.152.174.144:4000/play/btsport2/index.m3u8
 http://93.152.174.144:4000/play/btsportespn/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="Спорт",Bein Sport 4
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sports 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sports 3
-http://93.152.174.144:4000/play/bein3ar/index.m3u8
-#EXTINF:-1 group-title="Спорт",Bein Sports 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="Спорт",Bein Sports 5
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 #EXTINF:-1 group-title="Спорт",EDGE SPORT FHD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 
@@ -411,8 +379,6 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",Первый Музыкальный HD
 http://rtmp.one.by:1300
-#EXTINF:-1 group-title="Музыка",AIVA
-http://194.190.78.91:8080/aivaya/index.m3u8
 #EXTINF:-1 group-title="Музыка",MTV Biggest Pop HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Музыка",MTV Block Party HD
@@ -441,8 +407,6 @@ http://live.m2.tv/hls2/720/stream.m3u8
 http://live.m2.tv/hls3/720/stream.m3u8
 #EXTINF:-1 group-title="Музыка",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",MCM Top
-http://194.190.78.91:8080/mcm/index.m3u8
 #EXTINF:-1 group-title="Музыка",Ecnulo
 http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыка",V2BEAT HD
@@ -461,12 +425,6 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",Hits 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",HITV
-http://rosshow.gcdn.co/streams/1410_290/480n/index.m3u8
-#EXTINF:-1 group-title="Музыка",HITV FHD
-http://rosshow.gcdn.co/streams/1410_290/1080n/index.m3u8
-#EXTINF:-1 group-title="Музыка",HITV HD
-http://rosshow.gcdn.co/streams/1410_290/720n/index.m3u8
 #EXTINF:-1 group-title="Музыка",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
 #EXTINF:-1 group-title="Музыка",Muzzik Cafe&Club Serbia
@@ -496,7 +454,7 @@ http://streams.sibinformburo.cdnvideo.ru/sibinformburo/sibinformburo.sdp/playlis
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",ОТВ (Одинцово)
 http://185.18.4.16/live/3m/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Миллет	
+#EXTINF:-1 group-title="Региональные",Миллет
 http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 group-title="Региональные",Мордовия 24
 https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
@@ -512,8 +470,6 @@ http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
 http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Ники ТВ
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",К16
-http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Сургут 24
 http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 group-title="Региональные",ТВК 24 (Красноярск)
@@ -730,3 +686,5 @@ http://89.28.25.122/hls/tnt_md.m3u8
 http://188.138.130.130:8080
 #EXTINF:-1 group-title="Молдова",NTS
 http://5.56.77.9:50000
+
+
