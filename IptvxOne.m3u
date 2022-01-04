@@ -1,23 +1,5 @@
 #EXTM3U   url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1 group-title="Литва",LNK
-http://213.226.137.133:81/tl/l3/index.m3u8
-#EXTINF:-1 group-title="Литва",TV6
-http://213.226.137.133:81/tl/l4/index.m3u8
-#EXTINF:-1 group-title="Литва",BTV
-http://213.226.137.133:81/tl/l5/index.m3u8
-#EXTINF:-1 group-title="Литва",TV1
-http://213.226.137.133:81/tl/l9/index.m3u8
-#EXTINF:-1 group-title="Литва",TV2
-http://213.226.137.133:81/tl/l8/index.m3u8
-#EXTINF:-1 group-title="Литва",TV3
-http://213.226.137.133:81/tl/l6/index.m3u8
-#EXTINF:-1 group-title="Литва",TV8
-http://213.226.137.133:81/tl/l10/index.m3u8
-#EXTINF:-1 group-title="Литва",Info TV
-http://213.226.137.133:81/tl/l7/index.m3u8
-#EXTINF:-1 group-title="Литва",Lietuvos Rytas
-http://213.226.137.133:81/tl/l35/index.m3u8
 
 #EXTINF:-1 group-title="Россия",Первый Канал HD
 https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
