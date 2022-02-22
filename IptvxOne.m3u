@@ -1,8 +1,8 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
-#EXTINF:-1 group-title="Россия",Первый Канал HD
-https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTINF:-1,Первый канал
+http://46.174.83.66/1/index.m3u8
 #EXTINF:-1 group-title="Россия",Россия 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 group-title="Россия",Россия 1 HD
