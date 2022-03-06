@@ -1,17 +1,17 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
-#EXTINF:-1 ,Первый канал
+#EXTINF:-1 ,Piervyj
 http://46.174.83.66/1/index.m3u8
-#EXTINF:-1 group-title="Россия",Россия 1 HD
+#EXTINF:-1 group-title="Россия",Russia 1 HD
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Россия",Россия 24
+#EXTINF:-1 group-title="Россия",Rosija 24
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
-#EXTINF:-1 group-title="Россия",Россия К
+#EXTINF:-1 group-title="Россия",Rosija К
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Россия К
+#EXTINF:-1 group-title="Россия",Rosija К
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
-#EXTINF:-1 group-title="Россия",Россия РТР
+#EXTINF:-1 group-title="Россия",Rosija RTR
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
@@ -31,7 +31,7 @@ http://46.46.127.13:8306
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия",8 Канал Европа
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="Россия",Звезда HD
+#EXTINF:-1 group-title="Россия",Zviezda HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Россия",Настоящее время
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
