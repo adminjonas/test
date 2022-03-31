@@ -1,18 +1,9 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
-
 #EXTINF:-1 ,Piervyj
 http://46.174.83.66/1/index.m3u8
-#EXTINF:-1 group-title="Россия",Russia 1 HD
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rhd.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Россия",Rosija 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",Rosija К
 http://uiptv.do.am/1ufc/000000005/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Rosija К
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_2.m3u8
-#EXTINF:-1 group-title="Россия",Rosija RTR
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
 #EXTINF:-1 group-title="Россия",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
@@ -25,8 +16,6 @@ http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="Россия",РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия",СТС Love
-http://46.46.127.13:8306
 #EXTINF:-1 group-title="Россия",8 Канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
 #EXTINF:-1 group-title="Россия",8 Канал Европа
@@ -37,10 +26,6 @@ https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/master.m3u8
 #EXTINF:-1 group-title="Россия",Вместе РФ
 http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
-#EXTINF:-1 group-title="Россия",360°
-http://video1.in-news.ru/360/index.m3u8
-#EXTINF:-1 group-title="Россия",360°
-https://video1.in-news.ru/360/index.m3u8
 #EXTINF:-1 group-title="Россия",Ю
 http://46.174.83.66/U/mpegts
 
@@ -58,10 +43,6 @@ https://v2.catcast.tv/content/38801/index.m3u8
 http://85.192.10.131/hls/Pro100tvRu/playlist.m3u8
 #EXTINF:-1 group-title="Кино",Кино 1 International
 https://kino-1.catcast.tv/content/38617/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4770.png",BACKUS TV HD
-http://stream.backustv.ru/live/btv/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/4662.png",BACKUSTV Страшное HD
-http://stream.backustv.ru/live/btv2/index.m3u8
 #EXTINF:-1 group-title="Кино",Ужастик
 https://v2.catcast.tv/content/38896/index.m3u8
 #EXTINF:-1 group-title="Кино",FilmBox
@@ -71,14 +52,10 @@ http://94.230.240.17:8080/film_box/index.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Silence TV
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ТВ Экстра
 http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Nano
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Познавательные",Моя планета
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b800000.m3u8
 #EXTINF:-1 group-title="Познавательные",Sochi Live HD
 http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ОНТ
@@ -89,10 +66,6 @@ http://85.238.112.40:8810/hls_sec/239.33.116.26-.m3u8
 http://83.222.205.10:38080/konnyimir/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Министерство идей
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Мособр TV
-http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные",Мособр TV HD
-http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 #EXTINF:-1 group-title="Познавательные",Универ TV
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",ЛитКлуб ТВ Проза
@@ -118,14 +91,6 @@ http://46.174.83.66/Unikum/mpegts
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584/1/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Viasat Sport
 http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2364.png",Setanta Sports 1 HD
-http://37.187.28.95:2022/setanta_eurasia_hd/mpegts
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2782.png",Телеканал ФУТБОЛ
-http://37.187.28.95:2022/futbol/mpegts
-#EXTINF:-1 group-title="Спорт",Футбол 1
-http://37.187.28.95:2022/footbol1/mpegts
-#EXTINF:-1 group-title="Спорт",Футбол 2
-http://37.187.28.95:2022/footbol2/mpegts
 #EXTINF:-1 group-title="Спорт",Спортивный HD
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 #EXTINF:-1 group-title="Спорт",Turkmenistan Sport
@@ -152,16 +117,12 @@ http://93.152.174.144:4000/play/btsport1/index.m3u8
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sport 1
 http://93.152.174.144:4000/play/bein1fr/index.m3u8
-#EXTINF:-1 group-title="Спорт",Bein Sport 4
-http://93.152.174.144:4000/play/bein4ar/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sports 2
 http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sports 3
 http://93.152.174.144:4000/play/bein3ar/index.m3u8
 #EXTINF:-1 group-title="Спорт",Bein Sports 3
 http://93.152.174.144:4000/play/bein3fr/index.m3u8
-#EXTINF:-1 group-title="Спорт",Bein Sports 5
-http://93.152.174.144:4000/play/Bein5Ar/index.m3u8
 
 #EXTINF:-1 group-title="Музыка",Kronehit HD
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
@@ -177,8 +138,6 @@ http://rtmp.one.by:1300
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
 #EXTINF:-1 group-title="Музыка",MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:-1 group-title="Музыка",HDFashion&Lifestyle
-http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Музыка",Fashion TV Midnite Secrets
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="Музыка",Ocko Expres
@@ -220,10 +179,6 @@ https://clubbingtv-samsunguk.amagi.tv/playlist720_p.m3u8
 
 #EXTINF:-1 group-title="Региональные",Вечерняя Москва HD
 http://vmvideo.gcdn.co/streams/1503_161/1080n/index.m3u8
-#EXTINF:-1 group-title="Региональные",Москва 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/moscow_24/playlist_2.m3u8
-#EXTINF:-1 group-title="Региональные",Москва Доверие
-http://cdnmg.secure.live.rtr-vesti.ru/hls/doverie/playlist_2.m3u8
 #EXTINF:-1 group-title="Региональные",Башкортостан 24
 http://live.gtrk.tv/hls/b24-hls.m3u8
 #EXTINF:-1 group-title="Региональные",Первый тульский
@@ -256,8 +211,6 @@ http://serv30.vintera.tv:8081/sochi/sochi24/playlist.m3u8
 http://serv25.vintera.tv:8081/1pnk/nikitv/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",К16
 http://serv25.vintera.tv:8081/test/k16/playlist.m3u8
-#EXTINF:-1 group-title="Региональные",Сургут 24
-http://video1.in-news.ru/c24/index.m3u8
 #EXTINF:-1 group-title="Региональные",ТВК 24 (Красноярск)
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Региональные",Кубань 24
@@ -286,8 +239,6 @@ http://saratov24.tv:80/online/playlist.php
 http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 group-title="Региональные",Астрахань 24
 http://astrakhan24.mediacdn.ru/cdn/astrakhan24/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Региональные",10 канал (Новокузнецк)
-http://kuzbass1.ru:8082/10kanal/10kanal_720/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Кузбасс 1
 http://kuzbass1.ru:8082/10kanal/k24_576/playlist.m3u8
 #EXTINF:-1 group-title="Региональные",Эфир ТВ
@@ -362,8 +313,6 @@ http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr/playlist.m3u8
 #EXTINF:-1 group-title="Украина",Первый Деловой
 http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Украина",РАИ
-http://stream.rai.ua/rai/stream.m3u8
 #EXTINF:-1 group-title="Украина",ТРК Аверс (Луцк)
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 group-title="Украина",ГИТ (Луцк)
@@ -374,10 +323,6 @@ http://46.46.112.223/live/livestream1.m3u8
 http://46.46.112.223/hls/alexua_576.m3u8
 #EXTINF:-1 group-title="Украина",ТВ 5 (Запорожье)
 http://hls.cdn.ua/tv5.zp.ua_live/_definst_:tv5/playlist.m3u8
-#EXTINF:-1 group-title="Украина",ИРТ (Днепр)
-http://91.193.128.233:1935/live//irt.stream/playlist.m3u8
-#EXTINF:-1 group-title="Украина",ИРТ (Днепр)
-http://91.193.128.233:1935/live//irt.stream_576p/playlist.m3u8
 #EXTINF:-1 group-title="Украина",Nobel TV (Днепр)
 http://159.224.232.27:1234
 #EXTINF:-1 group-title="Украина",City TV (Одесса)
@@ -422,8 +367,6 @@ http://ott.columbus.te.ua/ternopil1/index.m3u8
 https://pershij-dlovij.cdn-02.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Украина",ATR
 http://stream.atr.ua/atr/live/index.m3u8
-#EXTINF:-1 group-title="Украина",Kratu
-http://cdn10.live-tv.od.ua:8081/kratu/kratu/playlist.m3u8
 #EXTINF:-1 group-title="Украина",Lale
 http://stream.atr.ua/lale//live/index.m3u8
 
@@ -431,8 +374,6 @@ http://stream.atr.ua/lale//live/index.m3u8
 http://live.trm.md:1935/live/MoldovaUnu1/playlist.m3u8
 #EXTINF:-1 group-title="Молдова",Moldova 2 HD
 http://live.trm.md:1935/live/MoldovaDoi2/playlist.m3u8
-#EXTINF:-1 group-title="Молдова",Moldova 1 HD
-http://87.248.191.169:80
 #EXTINF:-1 group-title="Молдова",ТНТ Exclusiv TV
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 group-title="Молдова",NTS
