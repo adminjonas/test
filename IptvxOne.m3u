@@ -196,9 +196,9 @@ https://sc.id-tv.kz/domkino_hd.m3u8
 https://sc.id-tv.kz:443/DomKino_36_37.m3u8
 #EXTINF:-1 group-title="Кино",Мир Сериала
 http://109.200.130.124:7007/play/a01a
-#EXTINF:-1 group-title="Кино",НТВ Хит
+#EXTINF:-1 group-title="Кино",NTV Хит
 http://80.237.96.66:9090/stream/channelid/355332936?ticket=04F16AB001A9117153B2962DD656A6E6B712181E&profile=pass
-#EXTINF:-1 group-title="Кино",НТВ Сериал
+#EXTINF:-1 group-title="Кино",NTV Сериал
 http://80.237.96.66:9090/stream/channelid/1223388163?ticket=03E0F244343C45AB8FFD7C85277A3C6258C15AD7&profile=pass
 #EXTINF:-1 group-title="Кино",День Победы
 http://5921747b.ottolok.net/iptv/8K6QLPHQA9XWMN/5054/index.m3u8
