@@ -10,11 +10,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир Премиум
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия FHD
+#EXTINF:-1 group-title="Россия",Izviestija FHD
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Известия HD
+#EXTINF:-1 group-title="Россия",Izviestija HD
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:-1 group-title="Россия",РБК
+#EXTINF:-1 group-title="Россия",RBK
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Россия",8 Канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
