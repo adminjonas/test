@@ -1,5 +1,7 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
+#EXTINF:-1,Solovjov Live
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 ,Piervyj
 http://46.174.83.66/1/index.m3u8
 #EXTINF:-1 group-title="Россия",Rosija К
