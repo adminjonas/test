@@ -1,6 +1,9 @@
 #EXTM3U  url-tvg="https://iptvx.one/epg/epg.xml.gz"
 
 
+#EXTINF:-0 ,Solovjov Live HD
+#EXTGRP:unsorted
+http://128.0.27.41:8080/239.211.211.104/mpegts
 #EXTINF:-1 ,Solovjov Live
 https://a787200812-s27836.cdn.ngenix.net/hls2/givc1_hd/playlist_6.m3u8
 #EXTINF:-1,Кинозал! СССР
