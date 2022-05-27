@@ -2,10 +2,9 @@
 
 
 #EXTINF:-1 ,Solovjov Live
-https://a787200812-s27836.cdn.ngenix.net/hls2/givc1_hd/playlist_6.m3u8
+http://128.0.27.41:8080/239.211.211.104/mpegts
 #EXTINF:-1 ,Piervyj
 http://46.174.83.66/1/index.m3u8
-
 #EXTINF:-1 group-title="Россия",Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
