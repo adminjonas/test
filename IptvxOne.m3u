@@ -50,8 +50,6 @@ http://dmi3y-tv.ru/hls/T2/CH_NTV_2.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_NTV_4.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
 http://dmi3y-tv.ru/hls/T2/CH_NTV_7.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (Молдова)
-rtmp://93.115.137.166/live/ntvm
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
 http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
