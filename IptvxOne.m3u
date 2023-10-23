@@ -1,5 +1,5 @@
+#EXTM3U
 
-#EXTM3U url-tvg="http://myott.top/api/epg.xml.gz"
 
 #EXTINF:-1 ,Piervyj
 http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
@@ -7,8 +7,6 @@ http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Россия",Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Мир Премиум
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 group-title="Россия",RBK
 http://92.50.128.180/utv/1358/index.m3u8
 #EXTINF:-1 group-title="Россия",8 Канал
@@ -17,8 +15,6 @@ http://v4.proofix.ru:80/8tv-russia/index.m3u8
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
 #EXTINF:-1 group-title="Россия",Zviezda HD
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Россия",Вместе РФ
-http://cdn-01.bonus-tv.ru:8080/vmesterf/index.m3u8
 
 
 #EXTINF:-1 group-title="Кино",VIP Megahit
@@ -55,8 +51,6 @@ http://dmi3y-tv.ru/hls/T2/CH_5TV.m3u8
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIAK.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
 http://dmi3y-tv.ru/hls/T2/CH_RUSSIA24.m3u8
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+6)
-http://dmi3y-tv.ru/hls/T2/CH_RUSSIA24_6.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
 http://dmi3y-tv.ru/hls/T2/CH_KARUSEL.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
@@ -95,24 +89,16 @@ http://dmi3y-tv.ru/hls/okko/CH_MUZTV.m3u8
 http://dmi3y-tv.ru/hls/CH_CHE.m3u8
 #EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
 http://dmi3y-tv.ru/hls/CH_U.m3u8
-
-
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! СТРАНА
 http://bl.uma.media/live/291663/HLS/4614144_2/2/1/playlist.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! СТРАНА HD720
 http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПРЕМЬЕР HD
 http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 1
-http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL1.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 1 HD
 http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 2
-http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL2.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 2 HD
 http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 3
-http://dmi3y-tv.ru/hls/CH_MATCH_FUTBOL3.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 3 HD
 http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! АРЕНА
@@ -145,8 +131,6 @@ http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНЕКО
 http://dmi3y-tv.ru/hls/okko/CH_FOX.m3u8
-
-
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 HD720
 http://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! HD720
@@ -163,8 +147,6 @@ http://dmi3y-tv.ru/hls/CH_8CHANNEL_EUROPE.m3u8
 http://dmi3y-tv.ru/hls/CH_TVMCHANNEL.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Просвещение
 http://dmi3y-tv.ru/hls/CH_PROSVESHENIE.m3u8
-#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Жар Птица
-http://dmi3y-tv.ru/hls/CH_ZHARPTITCA.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Надежда HD720
 http://dmi3y-tv.ru/hls/CH_NADEZHDAHD720.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Три Ангела
@@ -185,8 +167,6 @@ http://dmi3y-tv.ru/hls/CH_7TV.m3u8
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUS.m3u8
 #EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",LIFE TV [RUS/EST]
 http://dmi3y-tv.ru/hls/CH_LIFETV_RUSEST.m3u8
-
-
 #EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
 http://dmi3y-tv.ru/hls/CH_RADOSTMOYA.m3u8
 #EXTINF:-1 group-title="ДЕТСКИЕ",FAN
@@ -195,14 +175,10 @@ http://dmi3y-tv.ru/hls/CH_FAN.m3u8
 http://dmi3y-tv.ru/hls/CH_SOYUZHD.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТВ7
 http://dmi3y-tv.ru/hls/CH_TV7.m3u8
-#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TOP SECRET
-http://dmi3y-tv.ru/hls/CH_TOPSECRET.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник
 http://dmi3y-tv.ru/hls/CH_RATNIK.m3u8
 #EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Ратник HD
 http://dmi3y-tv.ru/hls/CH_RATNIKHD.m3u8
-
-
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Шансон ТВ
 http://dmi3y-tv.ru/hls/CH_SHANSONTV.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Муз Союз
@@ -211,10 +187,6 @@ http://dmi3y-tv.ru/hls/CH_MUZSOYUZ.m3u8
 http://dmi3y-tv.ru/hls/CH_OCKOHITY.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OCKO STAR
 http://dmi3y-tv.ru/hls/CH_OCKOSTAR.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",RUTV
-http://dmi3y-tv.ru/hls/CH_RUTV.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",RUTV HD
-http://dmi3y-tv.ru/hls/CH_RUTVHD.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OneBY
 http://dmi3y-tv.ru/hls/CH_1MUZ.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",OneBY HD
@@ -225,16 +197,8 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC
 http://dmi3y-tv.ru/hls/CH_TNT_MUSIC.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MUSIC BOX GOLD
-http://dmi3y-tv.ru/hls/CH_MUSICBOXGOLD.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MUSIC BOX RUSSIA
-http://dmi3y-tv.ru/hls/CH_MUSICBOXRUSSIA.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Музыка первого
 http://dmi3y-tv.ru/hls/CH_MUZYKA_PERVOGO.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Europa Plus TV
-http://dmi3y-tv.ru/hls/CH_EUROPAPLUSTV.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Europa Plus TV HD
-http://dmi3y-tv.ru/hls/CH_EUROPAPLUSTVHD.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Жара Kids TV HD720
 http://dmi3y-tv.ru/hls/CH_ZHARAKIDSTVHD720.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",V2BEAT HD720
@@ -249,26 +213,6 @@ http://dmi3y-tv.ru/hls/CH_MIXMTVHD.m3u8
 http://dmi3y-tv.ru/hls/CH_KRONEHIT.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Kronehit HD
 http://dmi3y-tv.ru/hls/CH_KRONEHITHD.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV YO!
-http://dmi3y-tv.ru/hls/CH_MTVYO.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV YO! HD720
-http://dmi3y-tv.ru/hls/CH_MTVYOHD720.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV BIGGEST POP
-http://dmi3y-tv.ru/hls/CH_MTVBIGGESTPOP.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV BIGGEST POP HD720
-http://dmi3y-tv.ru/hls/CH_MTVBIGGESTPOPHD720.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV BLOCK PARTY
-http://dmi3y-tv.ru/hls/CH_MTVBLOCKPARTY.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV BLOCK PARTY HD720
-http://dmi3y-tv.ru/hls/CH_MTVBLOCKPARTYHD720.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV SPANKIN NEW
-http://dmi3y-tv.ru/hls/CH_MTVSPANKINNEW.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MTV SPANKIN NEW HD720
-http://dmi3y-tv.ru/hls/CH_MTVSPANKINNEWHD720.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",CMT MUSIC
-http://dmi3y-tv.ru/hls/CH_CMTMUSIC.m3u8
-#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",CMT MUSIC HD720
-http://dmi3y-tv.ru/hls/CH_CMTMUSICHD720.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",XITE HD720 [DE]
 http://dmi3y-tv.ru/hls/CH_XITEHD720.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Clubbing TV HD720
@@ -277,12 +221,6 @@ http://dmi3y-tv.ru/hls/CH_CLUBBINGTVHD720.m3u8
 http://dmi3y-tv.ru/hls/CH_MUSICTOPHD720.m3u8
 #EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",88 Stereo HD720
 http://dmi3y-tv.ru/hls/CH_88STEREOHD720.m3u8
-
-
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",DW ENGLISH
-http://dmi3y-tv.ru/hls/CH_DW_ENGLISH.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",DW ENGLISH HD
-http://dmi3y-tv.ru/hls/CH_DW_ENGLISHHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",DW ARABIC
 http://dmi3y-tv.ru/hls/CH_DW_ARABIC.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",DW ARABIC HD
@@ -325,8 +263,6 @@ http://dmi3y-tv.ru/hls/CH_REDLINE.m3u8
 http://dmi3y-tv.ru/hls/CH_1RNKHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ЛДПР ТВ HD720
 http://dmi3y-tv.ru/hls/CH_LDPRTVHD720.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Министерство идей HD720
-http://dmi3y-tv.ru/hls/CH_MIDEYHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ВМЕСТЕ РФ HD
 http://dmi3y-tv.ru/hls/CH_VMESTERFHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Дума ТВ
@@ -335,12 +271,8 @@ http://dmi3y-tv.ru/hls/CH_DUMATV.m3u8
 http://dmi3y-tv.ru/hls/CH_DUMATVHD.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Хабар 24 HD720
 http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
-#EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",ТВ ЭКСТРА HD720
-http://dmi3y-tv.ru/hls/CH_TVEXTRAHD720.m3u8
 #EXTINF:-1 group-title="ИНФОРМАЦИОННЫЕ",Благосфера ТВ HD
 http://dmi3y-tv.ru/hls/CH_BLAGOSFERAHD.m3u8
-
-
 #EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Shopping Live
 http://dmi3y-tv.ru/hls/CH_SHOPPINGLIVE.m3u8
 #EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Leomax 24 HD
@@ -349,10 +281,6 @@ http://dmi3y-tv.ru/hls/CH_LEOMAX24HD.m3u8
 http://dmi3y-tv.ru/hls/CH_YUVELIROCHKATV.m3u8
 #EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Витрина ТВ
 http://dmi3y-tv.ru/hls/CH_VITRINATV.m3u8
-#EXTINF:-1 group-title="ТЕЛЕМАГАЗИНЫ",Столичный телемагазин HD
-http://nano.teleservice.su/hls/100l.m3u8
-
-
 #EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Говорит Москва (Москва)
 http://dmi3y-tv.ru/hls/CH_GM_MOS.m3u8
 #EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Говорит Москва HD720 (Москва)
@@ -375,19 +303,9 @@ http://dmi3y-tv.ru/hls/CH_RADIO51.m3u8
 http://dmi3y-tv.ru/hls/CH_M1HD720.m3u8
 #EXTINF:-1 group-title="РАДИО КАНАЛЫ",[Радио] Страна FM HD720
 http://dmi3y-tv.ru/hls/CH_STRANAFMHD720.m3u8
-
-
 #EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Code Fashion TV HD
 http://dmi3y-tv.ru/hls/CH_CODE_FTVHD.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV
-http://dmi3y-tv.ru/hls/CH_FTV.m3u8
-#EXTINF:-1 group-title="КАНАЛЫ О МОДЕ",Fashion TV HD
-http://dmi3y-tv.ru/hls/CH_FTVHD.m3u8
-
-
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24.m3u8
 #EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",Беларусь 24 HD (Беларусь)
 http://dmi3y-tv.ru/hls/blrus/CH_BELARUS24HD.m3u8
-#EXTINF:-1 group-title="БЕЛАРУСЬ [BY]",СТВ HD (Беларусь)
-http://dmi3y-tv.ru/hls/blrus/CH_STVHD_BLRUS.m3u8
