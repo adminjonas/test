@@ -2,190 +2,224 @@
 
 
 #EXTINF:-1 ,Первый
-https://ucdn.beetv.kz/btv/live/hls/000001227.m3u8
-#EXTINF:-1 group-title="Россия",Мир 24 HD
+http://dmi3y-tv.ru/hls/T2/CH_1TV.m3u8
+#EXTINF:-1 ,Россия 1
+http://dmi3y-tv.ru/hls/T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 ,НТВ
+http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
+#EXTINF:-1 ,Мир 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",Мир HD
+#EXTINF:-1 ,Мир HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 group-title="Россия",RBK
+#EXTINF:-1 ,RBK
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:-1 group-title="Россия",8 Канал
+#EXTINF:-1 ,8 Канал
 http://v4.proofix.ru:80/8tv-russia/index.m3u8
-#EXTINF:-1 group-title="Россия",8 Канал Европа
+#EXTINF:-1 ,8 Канал Европа
 http://v4.proofix.ru:80/8tv-europe/index.m3u8
-#EXTINF:-1 group-title="Россия",Zviezda HD
+#EXTINF:-1 ,Звезда
 https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
 
 
-#EXTINF:-1 group-title="Кино",VIP Megahit
-https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино",VIP Premiere
-https://bl.uma.media/live/485536/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино",VIP Comedy
-https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино",VIP Serial
-https://bl.uma.media/live/485540/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Кино",TV1000 World Kino
-https://bl.uma.media/live/485542/HLS/4614144_3/2/1/playlist.m3u8
-
-#EXTINF:-1 ,ОТР HD
-http://live-otronline.cdnvideo.ru/otr-decklink/otr/playlist.m3u8
-#EXTINF:-1 ,С1 Сургут HD
-https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:-1 ,Астрахань 24 HD
-https://streaming.astrakhan.ru/astrakhan24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,IZ.RU HD
-http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 ,Миллет HD
-http://live.trkmillet.ru/millet/index.m3u8
-#EXTINF:-1 ,Тивиком HD
-http://tvcom.stream.intelema.ru/tvcom/studio/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Хузур ТВ HD
-http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
-#EXTINF:-1 ,Архыз-24 HD
-http://live.mediacdn.ru/sr1/arhis24/playlist.m3u8
-#EXTINF:-1 ,ТРК 555 HD
-http://trk555.tv:8888/live
-#EXTINF:-1 ,ЛДПР ТВ HD
-http://46.46.143.222:1935/live/mp4:ldpr.stream_720p/playlist.m3u8
-#EXTINF:-1 ,Астрахань.Ru TV HD
-http://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,НТВ-Молдова
-http://93.115.137.166/hls/ntvm.m3u8
-#EXTINF:-1 ,Новый мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1 ,ТКР Рязань
-http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
-#EXTINF:-1 ,Мир Белогорья
-http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
-#EXTINF:-1 ,Север ТВ
-http://live.mediacdn.ru:80/sr1/sever/playlist.m3u8
-#EXTINF:-1 ,Эхо TВ
-http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 ,Телеканал 86
-https://sitv.ru/hls/s861024.m3u8
-#EXTINF:-1 ,Губерния
-http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:-1 ,Ника ТВ
-http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:-1 ,ТРК Евразия
-http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
-#EXTINF:-1 ,ТВ7
-http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 ,ТРО
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 ,News UA Украина
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
-#EXTINF:-1 ,РБК
-http://e8.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
-#EXTINF:-1 ,Skrypin UA HD Украина
-http://play.lanet.tv/live/1008.m3u8
-#EXTINF:-1 ,ОНТ
-http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
-#EXTINF:-1 ,Страна советов
-http://85.238.112.69:8811/hls_sec/239.0.58.39-.m3u8
-#EXTINF:-1 ,Z (Запорожье)
-https://stream.ztv.zp.ua/hls/live.m3u8
-#EXTINF:-1 ,ТРК Круг
-http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr/krugod/krugod/playlist.m3u8
-#EXTINF:-1 ,Сварожичи ТВ UA HD
-http://80.91.177.102:1935/live/live1/playlist.m3u8
-#EXTINF:-1 ,Bambarbia TV HD
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/bbb/bbbtv-720p/playlist.m3u8
-#EXTINF:-1 ,Думская TV HD
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
-#EXTINF:-1 ,Ланет PLAY HD
-http://play.lanet.tv/live/2003.m3u8
-#EXTINF:-1 ,Lanet Fighting HD
-http://play.lanet.tv/live/2006.m3u8
-#EXTINF:-1 ,Первый Городской HD (Одесса)
-http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
-#EXTINF:-1 ,СК1 HD
-http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/sk1zt/sk1zt720p/playlist.m3u8
-#EXTINF:-1 ,СК1
-http://cdn1.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
-#EXTINF:-1 ,Чернівецький Промінь HD
-http://langate.tv/promin/live_720/index.m3u8
-#EXTINF:-1 ,Правда ТУТ HD (Киев)
-http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
-#EXTINF:-1 ,Bambarbia TV
-http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8
-#EXTINF:-1 ,Репортер
-http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr/31chod/31chod/playlist.m3u8
-#EXTINF:-1 ,НТК
-http://stream.ntktv.ua/s/ntk/ntk.m3u8
-#EXTINF:-1 ,ТIС
-http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
-#EXTINF:-1 ,Объектив 59
-https://hls.simon.ua/live-HD/live/playlist_dvr.m3u8
-#EXTINF:-1 ,Орбiта
-http://ftp.orbita.dn.ua/hls/orbita.m3u8
-#EXTINF:-1 ,Астрахань.Ru Sport HD
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,Red Bull TV HD
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
-#EXTINF:-1 ,RTSHsport
-http://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
-#EXTINF:-1 ,100automoto.TV
-http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
-#EXTINF:-1 ,Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 ,Reload Radio Music Power HD
-http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 ,Kronehit HD
-http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 ,OneRUS HD
-http://rtmp.one.by:2300
-#EXTINF:-1 ,ALB MUSIC HD
-http://albmusic.dyndns.tv:1935/albuk/albmus.stream/playlist.m3u8
-#EXTINF:-1 ,Opoja TV HD
-http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-#EXTINF:-1 ,Sonus FM
-http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1 ,Шансон TB
-http://hls.shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
-#EXTINF:-1 ,М2
-http://live.m2.tv/hls3/stream.m3u8
-#EXTINF:-1 ,Радио Шансон HD
-http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live_hiq/index.m3u8
-#EXTINF:-1 ,Радио Страна ФМ HD
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 ,Retro TV
-http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 ,Ocko
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:-1 ,Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:-1 ,Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-
-
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! СТРАНА
-http://bl.uma.media/live/291663/HLS/4614144_2/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! СТРАНА HD720
-http://bl.uma.media/live/291663/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПРЕМЬЕР HD
-http://bl.uma.media/live/126866/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 1 HD
-http://bl.uma.media/live/126863/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 2 HD
-http://bl.uma.media/live/126864/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ФУТБОЛ 3 HD
-http://bl.uma.media/live/126865/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! АРЕНА
-http://bl.uma.media/live/126868/HLS/6866944_2/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! АРЕНА HD
-http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА
-http://bl.uma.media/live/126869/HLS/6866944_2/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Матч! ПЛАНЕТА HD720
-http://bl.uma.media/live/126869/HLS/6866944_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport
-http://bl.uma.media/live/485548/HLS/4614144_2/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Viasat Sport HD720
-http://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Конный Мир
-http://dmi3y-tv.ru/hls/CH_KONNYMIR.m3u8
-#EXTINF:-1 group-title="СПОРТИВНЫЕ",Конный мир HD
-http://bl.uma.media/live/400930/HLS/4614144_4/2/1/playlist.m3u8
-
+#EXTINF:-1 ,НТВ Хит
+https://strm.yandex.ru/kal/ntv_hit/ntv_hit0.m3u8
+#EXTINF:-1 ,НТВ Стиль
+https://strm.yandex.ru/kal/ntv_stil/ntv_stil0.m3u8
+#EXTINF:-1 ,НТВ Сериал
+https://strm.yandex.ru/kal/ntv_serial_new/ntv_serial_new0.m3u8
+#EXTINF:-1 ,НТВ Право
+https://strm.yandex.ru/kal/ntv_pravo_new/ntv_pravo_new0.m3u8
+#EXTINF:-1 ,В мире животных
+https://strm.yandex.ru/kal/v_mire_zhivotnykh_belarus/v_mire_zhivotnykh_belarus0.m3u8
+#EXTINF:-1 ,HD Life
+https://strm.yandex.ru/kal/hd_life_belarus/hd_life_belarus0.m3u8
+#EXTINF:-1 ,Моя Планета
+https://strm.yandex.ru/kal/moya_planeta_hd_belarus/moya_planeta_hd_belarus0.m3u8
+#EXTINF:-1 ,Приключения HD
+https://strm.yandex.ru/kal/prikluchenia_belarus/prikluchenia_belarus0.m3u8
+#EXTINF:-1 ,Наука 2.0
+https://strm.yandex.ru/kal/nauka_belarus/nauka_belarus0.m3u8
+#EXTINF:-1 ,Galaxy TV
+https://strm.yandex.ru/kal/tainy_galaktiki_belarus/tainy_galaktiki_belarus0.m3u8
+#EXTINF:-1 ,Первый космический
+https://strm.yandex.ru/kal/pervyi_kosmicheskiy_belarus/pervyi_kosmicheskiy_belarus0.m3u8
+#EXTINF:-1 ,Охотник и рыболов Int
+https://strm.yandex.ru/kal/ohotnik_rybolov_belarus/ohotnik_rybolov_belarus0.m3u8
+#EXTINF:-1 ,Мужской
+https://strm.yandex.ru/kal/muzhskoi_belarus/muzhskoi_belarus0.m3u8
+#EXTINF:-1 ,365 Дней ТВ
+https://strm.yandex.ru/kal/365_dnei_tv_belarus/365_dnei_tv_belarus0.m3u8
+#EXTINF:-1 ,Кто есть кто
+https://strm.yandex.ru/kal/kto_est_kto_belarus/kto_est_kto_belarus0.m3u8
+#EXTINF:-1 ,Ocean TV
+https://strm.yandex.ru/kal/ocean_tv_belarus/ocean_tv_belarus0.m3u8
+#EXTINF:-1 ,RTG HD
+https://strm.yandex.ru/kal/rtg/rtg0.m3u8
+#EXTINF:-1 ,Наша сибирь HD
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:-1 ,Диалоги о рыбалке
+https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
+#EXTINF:-1 ,Беларусь 1
+https://strm.yandex.ru/kal/belarus_1/belarus_10.m3u8
+#EXTINF:-1 ,Беларусь 2
+https://strm.yandex.ru/kal/belarus_2/belarus_20.m3u8
+#EXTINF:-1 ,Беларусь 3
+https://strm.yandex.ru/kal/belarus_3/belarus_30.m3u8
+#EXTINF:-1 ,СТВ
+https://strm.yandex.ru/kal/stv_belarus/stv_belarus0.m3u8
+#EXTINF:-1 ,ТВ-3 Беларусь
+https://strm.yandex.ru/kal/tv3_belarus/tv3_belarus0.m3u8
+#EXTINF:-1 ,ОНТ Беларусь
+https://strm.yandex.ru/kal/ont_belarus/ont_belarus0.m3u8
+#EXTINF:-1 ,НТВ Беларусь
+https://strm.yandex.ru/kal/ntv_belarus/ntv_belarus0.m3u8
+#EXTINF:-1 ,РТР Беларусь
+https://strm.yandex.ru/kal/rtr_belarus/rtr_belarus0.m3u8
+#EXTINF:-1 ,ТНТ International
+https://strm.yandex.ru/kal/tnt_interneshnl_belarus/tnt_interneshnl_belarus0.m3u8
+#EXTINF:-1 ,Fashion TV
+https://strm.yandex.ru/kal/fashion_tv/fashion_tv0.m3u8
+#EXTINF:-1 ,Кинопремьера
+https://strm.yandex.ru/kal/kinopremiera_hd_belarus/kinopremiera_hd_belarus0.m3u8
+#EXTINF:-1 ,Кинохит
+https://strm.yandex.ru/kal/kinohit_belarus/kinohit_belarus0.m3u8
+#EXTINF:-1 ,Киномикс
+https://strm.yandex.ru/kal/kinomiks_belarus/kinomiks_belarus0.m3u8
+#EXTINF:-1 ,Мужское кино
+https://strm.yandex.ru/kal/muzhskoe_kino_belarus/muzhskoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Киносемья
+https://strm.yandex.ru/kal/kinosemya_belarus/kinosemya_belarus0.m3u8
+#EXTINF:-1 ,Кинокомедия
+https://strm.yandex.ru/kal/kinokomedia_belarus/kinokomedia_belarus0.m3u8
+#EXTINF:-1 ,Киносвидание
+https://strm.yandex.ru/kal/kinosvidanie_sd_belarus/kinosvidanie_sd_belarus0.m3u8
+#EXTINF:-1 ,Наше новое кино
+https://strm.yandex.ru/kal/nashe_novoe_kino_belarus/nashe_novoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Родное кино
+https://strm.yandex.ru/kal/rodnoe_kino_belarus/rodnoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Киносерия
+https://strm.yandex.ru/kal/kinoseria_belarus/kinoseria_belarus0.m3u8
+#EXTINF:-1 ,Индийское кино
+https://strm.yandex.ru/kal/indiiskoe_kino_belarus/indiiskoe_kino_belarus0.m3u8
+#EXTINF:-1 ,Bollywood
+https://strm.yandex.ru/kal/bollywood_belarus/bollywood_belarus0.m3u8
+#EXTINF:-1 ,Timeless Dizi Channel
+https://strm.yandex.ru/kal/timeless_dizi_channel_belarus/timeless_dizi_channel_belarus0.m3u8
+#EXTINF:-1 ,Киноман
+https://strm.yandex.ru/kal/kinoman_belarus/kinoman_belarus0.m3u8
+#EXTINF:-1 ,TV XXI
+https://strm.yandex.ru/kal/tv_21_belarus/tv_21_belarus0.m3u8
+#EXTINF:-1 ,CINEMA
+https://strm.yandex.ru/kal/cinema_tv_belarus/cinema_tv_belarus0.m3u8
+#EXTINF:-1 ,Hollywood HD
+https://strm.yandex.ru/kal/hollywood_belarus/hollywood_belarus0.m3u8
+#EXTINF:-1 ,НСТ
+https://strm.yandex.ru/kal/nst_belarus/nst_belarus0.m3u8
+#EXTINF:-1 ,Т24
+https://strm.yandex.ru/kal/t24_belarus/t24_belarus0.m3u8
+#EXTINF:-1 ,Арсенал
+https://strm.yandex.ru/kal/arsenal_belarus/arsenal_belarus0.m3u8
+#EXTINF:-1 ,360 Новости
+https://strm.yandex.ru/kal/360news/360news0.m3u8
+#EXTINF:-1 ,360°
+https://strm.yandex.ru/kal/360tv/360tv0.m3u8
+#EXTINF:-1 ,МИР
+https://strm.yandex.ru/kal/mir_belarus/mir_belarus0.m3u8
+#EXTINF:-1 ,МИР 24
+https://strm.yandex.ru/kal/mir24/mir240.m3u8
+#EXTINF:-1 ,2x2
+https://strm.yandex.ru/kal/2x2_belarus/2x2_belarus0.m3u8
+#EXTINF:-1 ,5 канал international
+https://strm.yandex.ru/kal/5_kanal_int_belarus/5_kanal_int_belarus0.m3u8
+#EXTINF:-1 ,Сарафан
+https://strm.yandex.ru/kal/sarahfan_belarus/sarahfan_belarus0.m3u8
+#EXTINF:-1 ,КВН ТВ
+https://strm.yandex.ru/kal/kvn_tv_belarus/kvn_tv_belarus0.m3u8
+#EXTINF:-1 ,Ностальгия
+https://strm.yandex.ru/kal/nostalgia_belarus/nostalgia_belarus0.m3u8
+#EXTINF:-1 ,Авто Плюс
+https://strm.yandex.ru/kal/avto_plus_belarus/avto_plus_belarus0.m3u8
+#EXTINF:-1 ,Загородная жизнь
+https://strm.yandex.ru/kal/zagorodnaia_zhizn_belarus/zagorodnaia_zhizn_belarus0.m3u8
+#EXTINF:-1 ,Еда Премиум
+https://strm.yandex.ru/kal/eda_premium_int_belarus/eda_premium_int_belarus0.m3u8
+#EXTINF:-1 ,Кухня ТВ
+https://strm.yandex.ru/kal/kukhnia_tv_belarus/kukhnia_tv_belarus0.m3u8
+#EXTINF:-1 ,Живи!
+https://strm.yandex.ru/kal/zhivi_belarus/zhivi_belarus0.m3u8
+#EXTINF:-1 ,Fashion & Lifestyle
+https://strm.yandex.ru/kal/fashion_lifestyle_belarus/fashion_lifestyle_belarus0.m3u8
+#EXTINF:-1 ,Ю
+https://strm.yandex.ru/kal/utv/utv0.m3u8
+#EXTINF:-1 ,Капитан Фантастика
+https://strm.yandex.ru/kal/kapitan_fantastika_belarus/kapitan_fantastika_belarus0.m3u8
+#EXTINF:-1 ,Duck TV
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 ,Мульт
+https://strm.yandex.ru/kal/mult_belarus/mult_belarus0.m3u8
+#EXTINF:-1 ,Tiji
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 ,Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 ,Рыжий
+https://strm.yandex.ru/kal/ryzhii_sd_belarus/ryzhii_sd_belarus0.m3u8
+#EXTINF:-1 ,Лёва
+http://strm.yandex.ru/kal/leva/leva0.m3u8
+#EXTINF:-1 ,Мультиландия
+https://strm.yandex.ru/kal/multilandia/multilandia0.m3u8
+#EXTINF:-1 ,В гостях у сказки
+https://strm.yandex.ru/kal/v_gostyah_u_skazki/v_gostyah_u_skazki0.m3u8
+#EXTINF:-1 ,Baby Time
+http://strm.yandex.ru/kal/baby_time/baby_time0.m3u8
+#EXTINF:-1 ,БелМузТВ
+https://strm.yandex.ru/kal/belmuztv/belmuztv0.m3u8
+#EXTINF:-1 ,Europa Plus TV
+https://strm.yandex.ru/kal/europa_plus_tv/europa_plus_tv0.m3u8
+#EXTINF:-1 ,Bridge TV Deluxe
+https://strm.yandex.ru/kal/bridgetvdeluxe/bridgetvdeluxe0.m3u8
+#EXTINF:-1 ,Bridge TV
+https://strm.yandex.ru/kal/bridgetv/bridgetv0.m3u8
+#EXTINF:-1 ,Bridge TV Classic
+https://strm.yandex.ru/kal/bridgetvclassic/bridgetvclassic0.m3u8
+#EXTINF:-1 ,Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8
+#EXTINF:-1 ,BRIDGE TV HITS
+https://strm.yandex.ru/kal/bridgetvhits/bridgetvhits0.m3u8
+#EXTINF:-1 ,BRIDGE TV Русский Хит
+https://strm.yandex.ru/kal/bridgetv_russkiyhit/bridgetv_russkiyhit0.m3u8
+#EXTINF:-1 ,Bridge TV Шлягер
+https://strm.yandex.ru/kal/bridgetv_shlyager/bridgetv_shlyager0.m3u8
+#EXTINF:-1 ,RU.TV
+https://strm.yandex.ru/kal/rutv_cv/rutv_cv0.m3u8
+#EXTINF:-1 ,Жара
+https://strm.yandex.ru/kal/ot_rassveta_do_zakata_zhara/ot_rassveta_do_zakata_zhara0.m3u8
+#EXTINF:-1 ,Ля-минор
+https://strm.yandex.ru/kal/la_minor_belarus/la_minor_belarus0.m3u8
+#EXTINF:-1 ,Russian MusicBox
+https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
+#EXTINF:-1 ,MusicBox Gold
+https://strm.yandex.ru/kal/musicboxgold/musicboxgold0.m3u8
+#EXTINF:-1 ,ТНТ MUSIC
+https://strm.yandex.ru/kal/tntmusic/tntmusic0.m3u8
+#EXTINF:-1 ,Russian Extreme
+https://strm.yandex.ru/kal/russkoe_ekstremalnoe_tv_belarus/russkoe_ekstremalnoe_tv_belarus0.m3u8
+#EXTINF:-1  ,Старт Триумф
+https://strm.yandex.ru/kal/start_triumf/start_triumf0.m3u8
+#EXTINF:-1 ,Старт HD
+https://strm.yandex.ru/kal/start/start0.m3u8
+#EXTINF:-1 ,Удар
+https://strm.yandex.ru/kal/udar/udar0.m3u8
+#EXTINF:-1 ,MMA-TV.COM
+https://strm.yandex.ru/kal/mma_tv_belarus/mma_tv_belarus0.m3u8
+#EXTINF:-1 ,Бокс ТВ
+https://strm.yandex.ru/kal/boks_tv_plus_belarus/boks_tv_plus_belarus0.m3u8
+#EXTINF:-1 ,Матч! Планета
+https://strm.yandex.ru/kal/match_planeta_belarus/match_planeta_belarus0.m3u8
+#EXTINF:-1 ,Футбол
+https://strm.yandex.ru/kal/futbol_belarus/futbol_belarus0.m3u8
+#EXTINF:-1 ,Беларусь 5
+https://strm.yandex.ru/kal/belarus_5/belarus_50.m3u8
+#EXTINF:-1 ,KHL
+https://strm.yandex.ru/kal/khl_belarus/khl_belarus0.m3u8
+#EXTINF:-1 ,KHL Prime
+https://strm.yandex.ru/kal/khl_prime_belarus/khl_prime_belarus0.m3u8
